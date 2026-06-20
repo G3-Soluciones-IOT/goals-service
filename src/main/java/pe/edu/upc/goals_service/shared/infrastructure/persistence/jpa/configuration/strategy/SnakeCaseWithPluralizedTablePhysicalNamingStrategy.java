@@ -1,4 +1,4 @@
-package pe.edu.upc.goals_service.shared.infrastructure.strategy;
+package pe.edu.upc.goals_service.shared.infrastructure.persistence.jpa.configuration.strategy;
 
 import org.hibernate.boot.model.naming.Identifier;
 import org.hibernate.boot.model.naming.PhysicalNamingStrategy;
